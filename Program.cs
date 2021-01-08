@@ -10,6 +10,9 @@ namespace test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("哈哈搜狐佛说法");
+            Console.ReadKey();
+
         }
     }
 }
