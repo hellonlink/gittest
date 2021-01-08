@@ -23,5 +23,9 @@ namespace ComLib
         /// 性别
         /// </summary>
         public string Sex { get; set; }
+        /// <summary>
+        /// 生日
+        /// </summary>
+        public DateTime Birthday { get; set; }
     }
 }
